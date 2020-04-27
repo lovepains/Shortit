@@ -21,7 +21,8 @@ pkg install nano -y
 echo ""
 pkg install mpv -y
 echo " "
-
+pkg istall cat -y
+clear
 
 ################                                                       cyn='\e[0;36m'
 
