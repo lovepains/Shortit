@@ -78,6 +78,14 @@ rm -rf a.txt
 rm -rf b.txt
 mv "$varshortcut" /$HOME/Shortit/shortcuts-created
 
+cd $HOME
+cd Shortit
+echo "$Varshortcut For $Varbanner" > x.txt
+cat "x.txt" >> /$HOME/Shortit/@shrtlist
+rm -rf x.txt
+cp @shrtlist /data/data/com.termux/files/usr/bin
+cd /data/data/com.termux/files/usr/bin
+chmod +x *
 clear
 
 echo "                   "YOUR SHORTCUT IS CREATED  | lolcat
