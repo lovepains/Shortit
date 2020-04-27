@@ -6,6 +6,7 @@ cd $HOME
 cd Shortit
 cp @shrt /data/data/com.termux/files/usr/bin
 cd /data/data/com.termux/files/usr/bin
+cd $HOME
 cd Shortit
 cp @shrtlist /data/data/com.termux/files/usr/bin
 cd /data/data/com.termux/files/usr/bin
@@ -15,6 +16,7 @@ cd $HOME
 cd Shortit
 mkdir shortcuts-created
 mv @shrt /$HOME/Shortit/shortcuts-created
+mv @shrtlist /$HOME/Shortit/shortcuts-created
 
 echo " "SETUP COMPLETED | lolcat
 echo " "
