@@ -16,7 +16,7 @@ echo " "
 
 cd $HOME
 cd Shortit
-Touch rawhandle.txt   
+touch rawhandle.txt   
                                                         
 echo " "                                                             
 echo -e "\e[1m\e[33m\nWrite Your \e[31mDirectory \e[33mName\e[32m 👇\n\n"
