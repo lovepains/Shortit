@@ -67,11 +67,11 @@ rm -rf x.txt
 chmod +x *
 clear
 
-echo "                   "YOUR SHORTCUT IS CREATED  | lolcat
-echo "                   "TRY IT ONCE FOR SATISFACTION !  | lolcat
-echo "                   "REALLY LOVE PAINS TOO MUCH  | lolcat
+echo " "YOUR SHORTCUT IS CREATED  | lolcat
+echo " "TRY IT ONCE FOR SATISFACTION !  | lolcat
+echo " "REALLY LOVE PAINS TOO MUCH  | lolcat
 
-echo "                   "INPSPIRED BY NOOB HACKERS | lolcat
-echo "                   "SUBSCRIBE NOOB HACKERS | lolcat
+echo "  "INPSPIRED BY NOOB HACKERS | lolcat
+echo "  "SUBSCRIBE NOOB HACKERS | lolcat
 echo "  "USE @shrtlist FOR VIEWING YOUR CREATED GIT CLONE HANDLES. 
 sleep 2.0
