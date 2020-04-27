@@ -6,6 +6,9 @@ cd $HOME
 cd Shortit
 cp @shrt /data/data/com.termux/files/usr/bin
 cd /data/data/com.termux/files/usr/bin
+cd Shortit
+cp @shrtlist /data/data/com.termux/files/usr/bin
+cd /data/data/com.termux/files/usr/bin
 chmod +x *
 
 cd $HOME
