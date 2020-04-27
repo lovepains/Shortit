@@ -48,7 +48,7 @@ read varcowsay
 
 echo " "NOTE: Use of @ character before Shortcut handle is Preferred | lolcat
 
-echo -e "\e[1m\e[33m\nGive Your \e[31mShortcut \e[33mHandke\e[32m 👇\n\n"
+echo -e "\e[1m\e[33m\nGive Your \e[31mShortcut \e[33mHandle\e[32m 👇\n\n"
 read varshortcut
 
 echo  "cd $HOME" > 1.txt
