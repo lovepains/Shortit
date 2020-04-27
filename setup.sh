@@ -26,6 +26,14 @@ echo " "
 pkg install cat -y
 clear
 
+cd $HOME
+cd Shortit
+cd shortcuts-created
+clear
+mv @shrt /$HOME/Shortit
+clear
+mv @shrtlist /$HOME/Shortit/
+clear
 
 
 cd $HOME
