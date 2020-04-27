@@ -80,7 +80,7 @@ mv "$varshortcut" /$HOME/Shortit/shortcuts-created
 
 cd $HOME
 cd Shortit
-echo "$Varshortcut For $Varbanner" > x.txt
+echo "$varshortcut For $varbanner" > x.txt
 cat "x.txt" >> /$HOME/Shortit/@shrtlist
 rm -rf x.txt
 cp @shrtlist /data/data/com.termux/files/usr/bin
