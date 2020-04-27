@@ -32,7 +32,7 @@ cd shortcuts-created
 clear
 mv @shrt /$HOME/Shortit
 clear
-mv @shrtlist /$HOME/Shortit/
+mv @shrtlist /$HOME/Shortit
 clear
 
 
