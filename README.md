@@ -1,5 +1,5 @@
 # Shortit
-Make Shortcut handle of any package and run through any directory of ternux
+Make Shortcut handle of any Git Clone package and run through any directory of ternux
 ## About Shortit :
 
 Shortit is a bash based script which creates Shortcut handle in just oneclick without any issue and without root.
