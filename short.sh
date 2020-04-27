@@ -81,10 +81,10 @@ mv "$varshortcut" /$HOME/Shortit/shortcuts-created
 cd $HOME
 cd Shortit
 echo "$varshortcut For $varbanner" > x.txt
-cat "x.txt" >> /$HOME/Shortit/@shrtlist
+cat "x.txt" >> /$HOME/Shortit/list
 rm -rf x.txt
-cp @shrtlist /data/data/com.termux/files/usr/bin
-cd /data/data/com.termux/files/usr/bin
+
+
 chmod +x *
 clear
 
