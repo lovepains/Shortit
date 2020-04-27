@@ -48,6 +48,7 @@ $ @shrt
 * Now you can create Shortcut Handle of any package using this command 
 ```
 ```
+### USE @shrtlist For VIEWING YOUR SHORTCUTS HANDLES.
 ### INSPIRED BY NOOB HACKERS CHANNEL 
 
 ### THANKS TO MY MENTOR Nitro (NOOB HACKERS)
