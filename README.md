@@ -45,7 +45,7 @@ $ @shrt
 ```
 ```
 
-* Now you can create Shortcut Handle of any package uson this command 
+* Now you can create Shortcut Handle of any package using this command 
 ```
 ```
 ### INSPIRED BY NOOB HACKERS CHANNEL 
