@@ -1,5 +1,5 @@
 # Shortit
-Make Shortcut handle of any Git Clone package as well as command of packages and run through any directory of ternux
+Make Shortcut handle of any Git Clone package as well as command of packages and run through any directory of termux
 ## About Shortit :
 
 Shortit is a bash based script which creates Shortcut handle in just oneclick without any issue and without root.
@@ -61,10 +61,6 @@ but after this tool we have to command only p script.py .
 $ @shrt
 ```
 
-```
-$ @shc
-```
-
 
 * Now you can create Shortcut Handle of any package using this command 
 ```
@@ -84,3 +80,4 @@ https://www.noob-hackers.com
 ### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
