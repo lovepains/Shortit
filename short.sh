@@ -67,7 +67,7 @@ mv "$varshortcut" /$HOME/Shortit/shortcuts-created
 
 cd $HOME
 cd Shortit
-echo "$varshortcut For $varbanner" > x.txt
+echo "$varshortcut For $varcowsay" > x.txt
 cat "x.txt" >> /$HOME/Shortit/list
 rm -rf x.txt
 
