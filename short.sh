@@ -19,24 +19,32 @@ cd Shortit
 touch rawhandle.txt   
                                                         
 echo " "                                                             
-echo -e "\e[1m\e[33m\nWrite Your \e[31mDirectory \e[33mName\e[32m 👇\n\n"
+echo -e "\e[1m\e[33m\nWrite Your \e[31mLine \e[33mOne\e[32m 馃憞\n\n"
 read varbanner
 
-echo -e "\e[1m\e[33m\nWrite Package \e[36mCommand \e[33mLine\e[32m 👇\n\n "
+echo -e "\e[1m\e[33m\nWrite Your \e[36mLine \e[33mTwo\e[32m 馃憞\n\n "
 read varcowsay
+
+echo -e "\e[1m\e[33m\nWrite Your \e[36mLine \e[33mThree\e[32m 馃憞\n\n "
+read varcowmay
+
+echo -e "\e[1m\e[33m\nWrite Your \e[36mLine \e[33mThree\e[32m 馃憞\n\n "
+read varcowgay
 
 echo " "NOTE: Use of @ character before Shortcut handle is Preferred | lolcat
 
-echo -e "\e[1m\e[33m\nGive Your \e[31mShortcut \e[33mHandle\e[32m 👇\n\n"
+echo -e "\e[1m\e[33m\nGive Your \e[31mShortcut \e[33mCommand\e[32m 馃憞\n\n"
 read varshortcut
 
-echo  "cd $HOME" > 1.txt
-echo  "cd $varbanner" > a.txt
-echo "$varcowsay" > b.txt
+echo  "$varbanner" > 1.txt
+echo  "$varcowsay" > a.txt
+echo "$varcowmay" > b.txt
+gecho "$varcowgay" > c.txt
 
 cat "1.txt" >> /$HOME/Shortit/rawhandle.txt
 cat "a.txt" >> /$HOME/Shortit/rawhandle.txt
 cat "b.txt" >> /$HOME/Shortit/rawhandle.txt
+cat "c.txt" >> /$HOME/Shortit/rawhandle.txt
 echo " "
 
 cd /$HOME/Shortit
@@ -74,4 +82,4 @@ echo " "REALLY LOVE PAINS TOO MUCH  | lolcat
 echo "  "INPSPIRED BY NOOB HACKERS | lolcat
 echo "  "SUBSCRIBE NOOB HACKERS | lolcat
 echo "  "USE @shrtlist FOR VIEWING YOUR CREATED GIT CLONE HANDLES. 
-sleep 2.0
+sleep 1.0
