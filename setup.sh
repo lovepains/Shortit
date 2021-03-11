@@ -52,32 +52,6 @@ mkdir shortcuts-created
 mv @shrt /$HOME/Shortit/shortcuts-created
 mv @shrtlist /$HOME/Shortit/shortcuts-created
 
-cd $HOME
-cd Shortit
-cd shortcuts-created
-clear
-mv @shc /$HOME/Shortit
-clear
-mv @shclist /$HOME/Shortit
-clear
-
-cd $HOME
-cd Shortit
-chmod +x *
-cp @shc /data/data/com.termux/files/usr/bin
-cp @shclist /data/data/com.termux/files/usr/bin
-cd /data/data/com.termux/files/usr/bin
-chmod +x *
-
-echo " "Wait | lolcat
-
-cd $HOME
-cd Shortit
-mkdir shortcuts-created
-mv @shc /$HOME/Shortit/shortcuts-created
-mv @shclist /$HOME/Shortit/shortcuts-created
-clear
-
 echo " "SETUP COMPLETED | lolcat
 echo " "
 echo " "
